@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+*{
+    font-family: 'Noto Serif TC', serif;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h2{
+        margin: 10px;
+        color: blueviolet;
+    }
+    h3{
+        margin: 10px;
+        color:aquamarine;
+    }
+}
+
+
+table,
+tr,
+th,
+td{
+    border: 1px solid #522283;
+    border-spacing : 0;
+}
+th {
+    color:black;
+    background-color:  #fff8d2;
+}
